@@ -1,4 +1,4 @@
-# SecretSwap
+# WojackSwap
 
 Terraswap-inspired automated market-maker (AMM) protocol powered by Secret Contracts on [Secret Network](https://scrt.network/).
 
@@ -6,9 +6,9 @@ Terraswap-inspired automated market-maker (AMM) protocol powered by Secret Contr
 
 | Name                                                 | Description                                  |
 |------------------------------------------------------| -------------------------------------------- |
-| [`secretswap_factory`](contracts/secretswap_factory) |                                              |
-| [`secretswap_pair`](contracts/secretswap_pair)       |                                              |
-| [`secretswap_token`](contracts/secretswap_token)     | CW20 (ERC20 equivalent) token implementation |
+| [`secretswap_factory`](contracts/wojakswap_factory) |                                              |
+| [`secretswap_pair`](contracts/wojakswap_pair)       |                                              |
+| [`secretswap_token`](contracts/wojakswap_token)     | CW20 (ERC20 equivalent) token implementation |
 
 ## Running this contract
 
