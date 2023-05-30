@@ -6,9 +6,9 @@ Terraswap-inspired automated market-maker (AMM) protocol powered by Secret Contr
 
 | Name                                                 | Description                                  |
 |------------------------------------------------------| -------------------------------------------- |
-| [`secretswap_factory`](contracts/wojakswap_factory) |                                              |
-| [`secretswap_pair`](contracts/wojakswap_pair)       |                                              |
-| [`secretswap_token`](contracts/wojakswap_token)     | CW20 (ERC20 equivalent) token implementation |
+| [`wojakswap_factory`](contracts/wojakswap_factory) |                                              |
+| [`wojakswap_pair`](contracts/wojakswap_pair)       |                                              |
+| [`wojakswap_token`](contracts/wojakswap_token)     | CW20 (ERC20 equivalent) token implementation |
 
 ## Running this contract
 
